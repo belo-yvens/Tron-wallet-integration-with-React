@@ -22,7 +22,6 @@ Feel free to add extra functions or improvements, this helps me to familiarise m
 
 ## Running instructions
 
-- Copy project to your directory ( git clone https://github.com/ibnzUK/Ton-Wallet-React-Integration )
 - navigate to _Ton-Wallet-React-Integration_ project directory
 - make sure you have node.js installed on your machine
 - install project packages (npm install)
